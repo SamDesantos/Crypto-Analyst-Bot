@@ -82,9 +82,9 @@ The embedded intelligence engine covers leading protocols across every major sec
 
 ![Dashboard](Screenshots/dashboard.jpg)
 
-### Markets
+### Reports
 
-![Trading](Screenshots/report.jpg)
+![Reports](Screenshots/report.jpg)
 
 ---
 
