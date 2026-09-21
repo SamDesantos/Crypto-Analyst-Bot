@@ -75,6 +75,19 @@ The embedded intelligence engine covers leading protocols across every major sec
 
 ---
 
+
+## 📸 Screenshots
+
+### Dashboard
+
+![Dashboard](Screenshots/dashboard.jpg)
+
+### Markets
+
+![Trading](Screenshots/report.jpg)
+
+---
+
 ## 🌐 Live Demo
 
 Experience **Crypto Analyst Bot** directly in your browser:
