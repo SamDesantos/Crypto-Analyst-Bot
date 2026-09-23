@@ -1,8 +1,7 @@
 # 🏛️ Crypto Analyst Bot — Institutional Research & Market Terminal
-
 [![Platform](https://img.shields.io/badge/Platform-Windows%20x64%20(Desktop%20EXE)-0078D6?style=flat-square&logo=windows&logoColor=white)](https://github.com/SamDesantos/)
 [![Status](https://img.shields.io/badge/Release-v1.0.0%20Stable-10B981?style=flat-square)](https://github.com/SamDesantos/)
-[![License](https://img.shields.io/badge/License-Apache%202.0-F59E0B?style=flat-square)](LICENSE)
+[![License](https://img.shields.io/badge/License-MIT-F59E0B?style=flat-square)](LICENSE)
 
 **Crypto Analyst Bot** is a high-performance, standalone Windows desktop terminal engineered for crypto asset researchers, hedge fund analysts, and quantitative traders. It bridges deep fundamental tokenomics, on-chain health indicators, live macro sentiment, and automated institutional due diligence reports into a single, distraction-free desktop environment.
 
